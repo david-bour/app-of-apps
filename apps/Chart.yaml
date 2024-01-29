@@ -1,0 +1,6 @@
+apiVersion: v2
+name: App-of-Apps
+description: App of Apps
+type: application
+version: 0.0.1
+appVersion: "1"
