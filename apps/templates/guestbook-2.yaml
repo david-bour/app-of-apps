@@ -11,6 +11,6 @@ spec:
     server: {{ .Values.spec.destination.server }}
   project: default
   source:
-    path: guestbook2
+    path: manifests/guestbook2
     repoURL: https://github.com/david-bour/app-of-apps
     targetRevision: HEAD
